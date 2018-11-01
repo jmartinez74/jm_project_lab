@@ -1,3 +1,6 @@
 lily
 rose
 orchid
+petal
+thorn
+stem
